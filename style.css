@@ -38,11 +38,11 @@ img {
   margin-bottom: 20px;
 }
 .column {
-  flex: 50%;
+  flex: 33.33%;
   padding: 3px;
 }
-.coulm img {
-  max-width: 33%;
+.column img {
+  max-width: 33vw;
   height: auto;
   border-radius: 1px;
 }
